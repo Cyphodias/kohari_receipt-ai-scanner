@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pytesseract
-opencv-python
-psycopg2
-python-multipart
