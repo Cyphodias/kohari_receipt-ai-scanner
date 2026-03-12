@@ -15,3 +15,19 @@ Features:
 Architecture:
 
 Android App → API → OCR → Parser → Database
+
+-----------------------------------------------------------------------
+
+Mobile App
+   |
+Upload Receipt
+   |
+Backend API
+   |
+Image Processing
+   |
+OCR Engine
+   |
+Receipt Parser
+   |
+Database
